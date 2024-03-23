@@ -54,25 +54,15 @@ Après avoir reçu le nouveau microcontrôleur, nous avons relancer les tests av
 https://github.com/MicoqE/PULITOR/assets/162813944/cd232e67-9ef4-480d-9d1b-432195286215
 
 
+| Fonctionnalité de bases | Fonctionnalités gardées| Liste des matériaux              |
+|-------------------------|------------------------|----------------------------------|
+|- Suivre des lignes      | - Nettoyage du sol     | -Carte de commande :Arduino Uno  |
+|- Éviter des obstacles   | - Éviter des obstacles | - 4 Moteurs: DC 3-6v             |
+|- Ramasser des déchets   |                        | - Shield : L293D                 |
+|                         |                        | - 3 Capteur à ultrason : HC-SR04 |
+|                         |                        | - Alimentation : Battérie        |
+|                         |                        | - Corps du robot : Filament PLA  |
 
-
-
-## Fonctionnalité de bases 
-- Suivre des lignes
-- Éviter des obstacles
-- Ramasser des déchets
-
-## Fonctionnalités gardées
-- Nettoyage du sol
-- Éviter des obstacles
-
-## Liste des matériaux 
--Carte de commande :Arduino Uno 
-- 4 Moteurs: DC 3-6v
-- Shield : L293D
-- 3 Capteur à ultrason : HC-SR04
-- Alimentation : Battérie 
-- Corps du robot : Filament PLA
 
 ## Plan (Chronologiquement)
 ### 1.
